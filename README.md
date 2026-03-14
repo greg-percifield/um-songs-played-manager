@@ -1,16 +1,16 @@
 # UM Songs Played Manager
 
-A WordPress plugin for Ultimate Member that lets users build and manage a structured song library on their profile.
+A WordPress plugin designed for use within Ultimate Member profile workflows, allowing users to build and manage a structured song library on their profile.
 
-This plugin was designed for musician-facing workflows where users need to search for songs, save structured metadata, review duplicates, and manage their list through a cleaner profile experience than a raw text field.
+This plugin was built for musician-facing workflows where users need to search for songs, save structured metadata, review duplicates, and manage their list through a cleaner profile experience than a raw text field.
 
 ## Features
 
-- Ultimate Member profile integration
+- Designed to work within Ultimate Member profile pages and tabs
 - Search-based song picker using Select2
 - Structured JSON storage in user meta
 - Profile table rendering for saved songs
-- Dedicated management tab with:
+- Dedicated song management interface with:
   - search
   - filters
   - sorting
@@ -39,7 +39,7 @@ The goal was to replace a clunky freeform profile field with a more structured a
 
 - PHP
 - WordPress
-- Ultimate Member
+- Ultimate Member profile workflows
 - jQuery
 - Select2
 - REST API endpoints
@@ -72,7 +72,8 @@ This project was extracted and cleaned from a real-world workflow. If you adapt 
 - webhook configuration
 - field labels
 - starter-song data
-- Ultimate Member field setup
+- Ultimate Member tab and field setup
+- profile rendering expectations
 
 ## Roadmap
 
