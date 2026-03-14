@@ -20,6 +20,17 @@ This plugin was designed for musician-facing workflows where users need to searc
 - Curated starter-song tools
 - Optional webhook dispatch on song changes
 
+## Screenshots
+
+### Library view
+![Library view](screenshots/library-view.png)
+
+### Manage songs
+![Manage songs](screenshots/manage-songs-view.png)
+
+### Duplicate review
+![Duplicate review](screenshots/duplicate-review-view.png)
+
 ## Why I built it
 
 The goal was to replace a clunky freeform profile field with a more structured and user-friendly interface. The plugin focuses on practical UX improvements for real users while keeping the data model flexible enough for downstream integrations.
