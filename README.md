@@ -66,7 +66,7 @@ Users can:
 
 ## Notes before production use
 
-This project was extracted and cleaned from a real-world workflow. If you adapt it for your own use, you should review:
+This project was extracted and cleaned from a real-world workflow. If you adapt the concepts for your own use, you should review:
 
 - route namespaces
 - webhook configuration
@@ -81,6 +81,10 @@ This project was extracted and cleaned from a real-world workflow. If you adapt 
 - improved public-facing documentation
 - optional admin controls for starter data and webhook behavior
 
-## License
+## Portfolio / Usage Notice
 
-MIT
+This repository is shared as a portfolio example of my development work.
+
+It is not offered for open-source use, reuse, redistribution, or production deployment by third parties.
+
+Please do not copy, republish, or deploy this project without permission.
