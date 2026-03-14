@@ -23,13 +23,13 @@ This plugin was designed for musician-facing workflows where users need to searc
 ## Screenshots
 
 ### Library view
-![Library view](screenshots/library-view.png)
+![Library view](screenshots/songs-library-view.png)
 
 ### Manage songs
-![Manage songs](screenshots/manage-songs-view.png)
+![Manage songs](screenshots/songs-manage-songs-view.png)
 
 ### Duplicate review
-![Duplicate review](screenshots/duplicate-review-view.png)
+![Duplicate review](screenshots/songs-duplicate-review-view.png)
 
 ## Why I built it
 
